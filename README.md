@@ -2,6 +2,9 @@
 Simple Spring Boot Application which provides a very comfortable interface to work with XML data.
 There is also implements RSA key encryption logic(keys stored in 'pem' files) to communicate via https requests.
 
+# How to run app
+Just clone this repository and run MainApplication class which annotated @SpringBootApplication.
+
 # Links which saved my time 
 https://stackoverflow.com/questions/11787571/how-to-read-pem-file-to-get-private-and-public-key#
 https://gist.github.com/markscottwright/4bd563fa91e9a72bf1ce12a0ff6567aa
