@@ -1,3 +1,6 @@
+# Task Condition
+The task condition located in file: https://github.com/GennadiyUsatenko/some_technical_task/blob/master/src/main/resources/Task_Condition.docx
+
 # Overview
 Simple Spring Boot Application which provides a very comfortable interface to work with XML data.
 There is also implements RSA key encryption logic(keys stored in 'pem' files) to communicate via https requests.
